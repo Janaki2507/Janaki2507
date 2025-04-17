@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Janaki Guntupalli
 
-<!--
-**Janaki2507/Janaki2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech in Computer Science | Final Year  
+💻 Passionate about Cloud ☁️ | AI/ML 🤖 | DevOps ⚙️  
+📍 Currently working on healthcare AI projects (Lung & Brain Disease Detection)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- Languages: Python, Java, C, SQL  
+- AI/ML: TensorFlow, Scikit-Learn, Pandas, NumPy  
+- Cloud: AWS, GCP (Basics), Render, Streamlit  
+- Web: HTML, CSS, JavaScript, Django  
+- Tools: Git, GitHub, VS Code, Jupyter
+
+---
+
+## 📊 My Projects
+
+### 🫁 [Pulmonary Disease Detection](https://github.com/your-link)
+> Deep learning on lung sound audio. Built using CNNs. Added YouTube/video suggestions + downloadable reports.
+
+### 🧠 [Brain Tumor Detection with Explainability](https://github.com/your-link)
+> Fusion of MRI + audio + demographics. Used SHAP for explainability.
+
+### 🌐 [Banking System (Django)](https://github.com/your-link)
+> Fully working system with secure login, transactions, and admin controls.
+
+---
+
+## 📢 Connect with Me
+
+- 📫 [Email](mailto:gjanaki2507@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/janaki-guntupalli/)
+- 📝 [Medium](https://medium.com/@gjanaki2507) – blogs coming soon!
