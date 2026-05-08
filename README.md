@@ -1,18 +1,17 @@
-# 👋 Hi, I'm Janaki Guntupalli
+👋 Hi, I'm Janaki Guntupalli
 
-🎓 BTech in Computer Science | Final Year  
-💻 Passionate about Cloud ☁️ | AI/ML 🤖 | DevOps ⚙️  
-📍 Currently working on healthcare AI projects (Lung & Brain Disease Detection)
+🎓 Master’s Student in Automotive Software Engineering
+💻 Passionate about Automotive Software, Embedded Systems, AI/ML & Cloud Technologies
+🚗 Interested in ADAS, Driver Monitoring Systems, Computer Vision & Intelligent Mobility
+📍 Currently building real-time automotive and AI-based projects
 
----
-
-## 🛠️ Technologies & Tools
-
-- Languages: Python, Java, C, SQL  
-- AI/ML: TensorFlow, Scikit-Learn, Pandas, NumPy  
-- Cloud: AWS, GCP (Basics), Render, Streamlit  
-- Web: HTML, CSS, JavaScript, Django  
-- Tools: Git, GitHub, VS Code, Jupyter
+🛠️ Technologies & Tools
+Languages: Python, Java, C, SQL
+Automotive & Embedded: Embedded Systems, IoT, CAN Basics
+AI/ML: TensorFlow, Scikit-Learn, Pandas, NumPy, Computer Vision
+Cloud: AWS, GCP (Basics)
+Web & Backend: HTML, CSS, JavaScript, Django
+Tools: Git, GitHub, VS Code, Jupyter, Linux
 
 ---
 
